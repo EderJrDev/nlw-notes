@@ -1,9 +1,9 @@
 # Nlw Explorer - Tribe React
 
 <img
-  src="/src/assets/twitter.png"
-  alt="Alt text"
-  title="Optional title"
+  src="/src/assets/logo-nlw-expert.svg"
+  alt="logo-nlw"
+  title="Logo Nlw"
   style="display: inline-block; margin: 0 auto; max-width: 500px">
 
 
