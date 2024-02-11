@@ -1,4 +1,4 @@
-# Nlw Explorer - Tribe React
+# Nlw Expert - Tribe React
 
 <img
   src="/src/assets/logo-nlw-expert.svg"
